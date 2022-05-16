@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;    
+}
+
+body {
+    background-color: black;
+    color:white;
+}
+
+#header {
+    background-color: red;
+}
+
+.asd{
+    color:green;
+}
+
+.otrodiv{
+    background-color: yellow;
+}
